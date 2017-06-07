@@ -1,7 +1,6 @@
 {
-	“parent”:”item/generated”,
-	“textures”: {
-	  “layer0”: ”bm:items/pugtato”
-	
-	}
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "bm:items/pugtato"
+    }
 }
